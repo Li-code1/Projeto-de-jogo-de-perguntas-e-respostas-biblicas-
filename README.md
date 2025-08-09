@@ -1,4 +1,4 @@
-# Projeto-de-jogo-de-perguntas-e-respostas-bíblicas-
+Projeto de jogo de perguntas e respostas bíblicas
 
 Programa Completo de Jogo de Perguntas e Respostas Bíblicas
 
